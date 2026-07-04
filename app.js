@@ -30,11 +30,11 @@ const DATA = {
     //     { id: 'f6', name: 'Trending Now', sub: 'Everyone is listening today', emoji: '💫', color: 'linear-gradient(135deg,#00c6ff,#0072ff)', img: '', tracks: ['Track A', 'Track B', 'Track C', 'Track D'] },
     // ],
     featured: [
-        { id: 'f1', name: 'Top 50 — Global', img: 'images/card1img.jpeg' },
-        { id: 'f2', name: 'Mahiye Jinna Sohna', img: 'images/card2img.jpeg' },
-        { id: 'f3', name: 'Mere Paas Tum Ho', img: 'images/card3img.jpeg' },
-        { id: 'f4', name: 'Album 4', img: 'images/card4img.jpeg' },
-        { id: 'f5', name: 'Top Songs India', img: 'images/card6img.jpeg' },
+       { id: 'f1', name: 'Top 50 — Global',    img: 'card1img.jpeg' },
+       { id: 'f2', name: 'Mahiye Jinna Sohna', img: 'card2img - Copy.jpeg' },
+       { id: 'f3', name: 'Mere Paas Tum Ho',   img: 'card3img.jpeg' },
+       { id: 'f4', name: 'Album 4',            img: 'card4img.jpeg' },
+       { id: 'f5', name: 'Top Songs India',    img: 'card6img.jpeg' },
     ],
 
     madeForYou: [
